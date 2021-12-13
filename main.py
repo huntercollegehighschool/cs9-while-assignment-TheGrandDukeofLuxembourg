@@ -12,12 +12,12 @@ while program not in ['1', '2', '3', '4', '5']:
 os.system('clear')
 
 if program == '1':
-  import part1
+    import part1
 elif program == '2':
-  import part2
+    import part2
 elif program == '3':
-  import part3
+    import part3
 elif program == '4':
-  import part4
+    import part4
 elif program == '5':
-  import part5
+    import part5
